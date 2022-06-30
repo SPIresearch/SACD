@@ -16,4 +16,8 @@ To enable the developments of point-of-care healthcare research and distillation
 - python >= 3.6.10 
 - pytorch >= 1.1.0
 - FFmpeg, FFprobe
-- Download datasets:[$S^3VE$ PSG]:https://pan.baidu.com/s/14oiT8Qehhx1Q_DpYw6Pc0A
+- Download $S^3VE$ datasets:
+- 
+- [EGG]: https://pan.baidu.com/s/1mhRdYQEzTqR9rLwW4OZv6Q
+- [Infrared video features]: https://pan.baidu.com/s/1yuUIXqNoZqXPAB_8uIO0ag
+- [labels]: https://pan.baidu.com/s/1GvBR3dLqj6KRmpG1YpVyDQ
