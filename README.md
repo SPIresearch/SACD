@@ -3,7 +3,7 @@
       (A cross-modal distillation method based on infrared video and EEG signals)
 
 
-## Introductio
+## Introduction
 We propose a novel cross-modal methodology (SACD) to solve the previous barriers, enabling point-of-care sleep stage monitoring at home.
 
 To enable the developments of point-of-care healthcare research and distillation methods from clinical to visual modality, to our best knowledge, we are the first to collect a large-scale cross-modal distillation dataset, namely $S^3VE$.
@@ -12,14 +12,20 @@ To enable the developments of point-of-care healthcare research and distillation
 </p>
 
 ## Getting Started
-### Prerequisites:
+### Requirmenets:
 - python >= 3.6.10 
 - pytorch >= 1.1.0
 - FFmpeg, FFprobe
-- Download $S^3VE$ datasets:
-[EGG](https://pan.baidu.com/s/1mhRdYQEzTqR9rLwW4OZv6Q),
-[Infrared video features]( https://pan.baidu.com/s/1yuUIXqNoZqXPAB_8uIO0ag),
-[labels](https://pan.baidu.com/s/1GvBR3dLqj6KRmpG1YpVyDQ)
+- Numpy
+- Sklearn
+- Pandas
+- openpyxl
+- mne=='0.20.7'
+### Prepare datasets
+ Download $S^3VE$ datasets:
+-[EGG](https://pan.baidu.com/s/1mhRdYQEzTqR9rLwW4OZv6Q),
+-[Infrared video features]( https://pan.baidu.com/s/1yuUIXqNoZqXPAB_8uIO0ag),
+-[labels](https://pan.baidu.com/s/1GvBR3dLqj6KRmpG1YpVyDQ)
 - Download pretrained weights:
 We also provide the pre-trained weights of the IR video encoder and the weights after our method distillation. [link](https://pan.baidu.com/s/1ryaxMGupD-wu2I_bT7iQNg )
 
