@@ -30,10 +30,12 @@ To enable the developments of point-of-care healthcare research and distillation
 We also provide the pre-trained weights of the IR video encoder and the weights after our method distillation. 
 
 
-**Note**: If you need our dataset for relevant research, please send us an email with **your Institution, Email and Use Purpose**, and we will provide you with the Baidu Cloud extraction code after review. Our email address is: 715129324@qq.com
+**Note**: If you need our dataset for relevant research, please send us an email with **your Institution, Email and Use Purpose**. We will provide you with the Baidu Cloud extraction code after review. Our email address is: 715129324@qq.com
 
 ### Data Preparation on S^3VE (example):
 
 ## Acknowledgement
-This repository is partially built with two open-source implementation: (1) [3D-ResNets-PyTorch](https://github.com/kenshohara/3D-ResNets-PyTorch) is used in video data preparation; (2) [Attnsleep](https://github.com/emadeldeen24/AttnSleep) is used for EEG feature extraction.
+This repository is partially built with two open-source implementation: (1) [3D-ResNets-PyTorch](https://github.com/kenshohara/3D-ResNets-PyTorch) is used in video data preparation;
+
+(2) [Attnsleep](https://github.com/emadeldeen24/AttnSleep) is used for EEG feature extraction.
 
