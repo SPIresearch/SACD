@@ -23,9 +23,9 @@ To enable the developments of point-of-care healthcare research and distillation
 - mne=='0.20.7'
 ### Prepare datasets
  Download $S^3VE$ datasets:
--[EGG](https://pan.baidu.com/s/1mhRdYQEzTqR9rLwW4OZv6Q),
--[Infrared video features]( https://pan.baidu.com/s/1yuUIXqNoZqXPAB_8uIO0ag),
--[labels](https://pan.baidu.com/s/1GvBR3dLqj6KRmpG1YpVyDQ)
+- [EGG](https://pan.baidu.com/s/1mhRdYQEzTqR9rLwW4OZv6Q),
+- [Infrared video features]( https://pan.baidu.com/s/1yuUIXqNoZqXPAB_8uIO0ag),
+- [labels](https://pan.baidu.com/s/1GvBR3dLqj6KRmpG1YpVyDQ)
 - Download pretrained weights:
 We also provide the pre-trained weights of the IR video encoder and the weights after our method distillation. [link](https://pan.baidu.com/s/1ryaxMGupD-wu2I_bT7iQNg )
 
