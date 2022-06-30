@@ -17,6 +17,9 @@ To enable the developments of point-of-care healthcare research and distillation
 - pytorch >= 1.1.0
 - FFmpeg, FFprobe
 - Download $S^3VE$ datasets:
-[EGG]: https://pan.baidu.com/s/1mhRdYQEzTqR9rLwW4OZv6Q //
-[Infrared video features]: https://pan.baidu.com/s/1yuUIXqNoZqXPAB_8uIO0ag//
+[EGG]: https://pan.baidu.com/s/1mhRdYQEzTqR9rLwW4OZv6Q 
+[Infrared video features]: https://pan.baidu.com/s/1yuUIXqNoZqXPAB_8uIO0ag
 [labels]: https://pan.baidu.com/s/1GvBR3dLqj6KRmpG1YpVyDQ
+
+Note：If you need our dataset for relevant research, please send us an email with your Institution, Email and Use Purpose！we will provide you with the Baidu Cloud extraction code after review. Our email address is: 715129324@qq.com
+
