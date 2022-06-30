@@ -21,7 +21,7 @@ To enable the developments of point-of-care healthcare research and distillation
 - Pandas
 - openpyxl
 - mne=='0.20.7'
-### Prepare datasets
+### Prepare datasets:
  Download $S^3VE$ datasets:
 - [EGG](https://pan.baidu.com/s/1mhRdYQEzTqR9rLwW4OZv6Q)
 - [Infrared video features]( https://pan.baidu.com/s/1yuUIXqNoZqXPAB_8uIO0ag)
