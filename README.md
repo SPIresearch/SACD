@@ -4,7 +4,7 @@
 
 
 ## Introductio
-we propose a novel cross-modal methodology to solve the previous barriers, enabling point-of-care sleep stage monitoring at home.
+We propose a novel cross-modal methodology (SACD) to solve the previous barriers, enabling point-of-care sleep stage monitoring at home.
 
 To enable the developments of point-of-care healthcare research and distillation methods from clinical to visual modality, to our best knowledge, we are the first to collect a large-scale cross-modal distillation dataset, namely $S^3VE$
 
