@@ -16,7 +16,7 @@ mkdir results/${FOLDER}
 python main.py \
 --root_path ${ROOT} \
 --video_path ${VIDEO_PATH} \
---audio_path ${AUDIO_PATH} \
+--eeg_path ${EEG_PATH} \
 --annotation_path datasets/UCF101/ucf51_01.json \
 --result_path results/${FOLDER} \
 --dataset ucf101 --n_classes 51 \
