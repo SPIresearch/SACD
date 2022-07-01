@@ -8,7 +8,7 @@ FOLDER=ucf51_baseline
 MODEL=r21d
 DEPTH=18
 VIDEO_PATH=datasets/UCF101/hdf5data
-AUDIO_PATH=datasets/UCF101/ucf101_audiocnn14embed512_features
+AUDIO_PATH=datasets/UCF101/ucf101_eeg512_features
 
 mkdir results/${FOLDER}
 
