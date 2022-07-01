@@ -34,7 +34,7 @@ python main.py \
 --annotation_path datasets/UCF101/ucf51_01.json \
 --result_path results/${FOLDER} \
 --resume_path results/${FOLDER}/save_model.pth \
---dataset ucf101 --n_classes 51 \
+--dataset ucf101 --n_classes 5 \
 --model ${MODEL} --model_depth ${DEPTH}  \
 --file_type hdf5 --sample_t_stride 1 \
 --n_threads 16 --no_train --no_val --inference --output_topk 5 --inference_batch_size 1
