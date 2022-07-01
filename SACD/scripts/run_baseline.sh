@@ -19,7 +19,7 @@ python main.py \
 --eeg_path ${EEG_PATH} \
 --annotation_path datasets/UCF101/ucf51_01.json \
 --result_path results/${FOLDER} \
---dataset ucf101 --n_classes 51 \
+--dataset ucf101 --n_classes 5 \
 --model ${MODEL} --model_depth ${DEPTH} --batch_size 16 --n_threads 16 --checkpoint 100 \
 --file_type hdf5 --sample_t_stride 1 --n_val_samples=3 \
 --train_crop random --val_freq=1 \
